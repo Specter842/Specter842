@@ -6,6 +6,12 @@
   <em>AI/ML · Robotics · Cybersecurity · Quant/Finance</em>
 </p>
 
+<p align="center">
+  <a href="https://specter842.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Specter842/"><img src="https://img.shields.io/badge/LeetCode-2f2f2f?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+  <a href="https://www.behance.net/Specter842"><img src="https://img.shields.io/badge/Behance-1f1f1f?style=for-the-badge&logo=behance&logoColor=1769FF"/></a>
+</p>
+
 ---
 
 ## GitHub Analytics
