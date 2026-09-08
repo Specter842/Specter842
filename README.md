@@ -18,6 +18,16 @@
 
 ---
 
+## Summary
+
+<p align="center">
+  Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity.<br/>
+  I build intelligent pipelines across finance, blockchain, IoT, and autonomous systems,<br/>
+  with end-to-end ownership from raw data to secure, decentralized infrastructure.
+</p>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
@@ -32,16 +42,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=specter842&style=flat&color=lightgray" alt="Profile Views"/>
-</p>
-
----
-
-## Summary
-
-<p align="center">
-  Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity.<br/>
-  I build intelligent pipelines across finance, blockchain, IoT, and autonomous systems,<br/>
-  with end-to-end ownership from raw data to secure, decentralized infrastructure.
 </p>
 
 ---
