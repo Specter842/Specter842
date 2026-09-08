@@ -8,16 +8,10 @@
 
 ---
 
-## Summary
+## GitHub Analytics
 
 <p align="center">
-  Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity.<br/>
-  I build intelligent pipelines across finance, blockchain, IoT, and autonomous systems,<br/>
-  with end-to-end ownership from raw data to secure, decentralized infrastructure.
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/specter842" alt="Contribution Heatmap" width="80%"/>
+  <img src="https://ghchart.rshah.org/specter842" alt="Contribution Heatmap" width="80%"/>
 </p>
 
 <p align="center">
@@ -26,7 +20,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=specter842&theme=github_dark"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=specter842&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=specter842&theme=github_dark" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=specter842&style=flat&color=lightgray" alt="Profile Views"/>
+</p>
+
+---
+
+## Summary
+
+<p align="center">
+  Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity.<br/>
+  I build intelligent pipelines across finance, blockchain, IoT, and autonomous systems,<br/>
+  with end-to-end ownership from raw data to secure, decentralized infrastructure.
 </p>
 
 ---
@@ -43,15 +52,3 @@ Robotics & Embedded  Control Systems · Embedded Systems · ESP32 · FPGA · MQT
 Data & Infra         PostgreSQL · Docker · Kafka · Terraform · Grafana
 Tools & Platforms    Git · GitHub · Linux · Bash · Android Studio · VS Code · Jupyter
 ```
-
----
-
-## More Stats
-
-<p align="center">
-  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=specter842&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=specter842&style=flat&color=lightgray" alt="Profile Views"/>
-</p>
