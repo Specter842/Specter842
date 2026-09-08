@@ -7,9 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://specter842.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Specter842/"><img src="https://img.shields.io/badge/LeetCode-2f2f2f?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-  <a href="https://www.behance.net/Specter842"><img src="https://img.shields.io/badge/Behance-1f1f1f?style=for-the-badge&logo=behance&logoColor=1769FF"/></a>
+  <a href="https://specter842.vercel.app"><img src="https://cdn.simpleicons.org/vercel/white" height="28" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Specter842/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="28" alt="LeetCode"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/Specter842"><img src="https://cdn.simpleicons.org/behance/1769FF" height="28" alt="Behance"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/specter842"><img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/></a>
 </p>
 
 ---
