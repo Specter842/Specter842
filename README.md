@@ -1,6 +1,9 @@
+<h1 align="center">Specter842</h1>
+
+<h3 align="center">Computational Systems Engineer</h3>
+
 <p align="center">
-  <strong>specter842</strong><br/>
-  <em>Computational Systems Engineer — AI/ML · Robotics · Cybersecurity</em>
+  <em>AI/ML · Robotics · Cybersecurity · Quant/Finance</em>
 </p>
 
 ---
@@ -14,6 +17,7 @@ end-to-end ownership from raw data to secure, decentralized infrastructure.
 - **AI/ML** — model training, inference pipelines, and data-to-decision systems
 - **Robotics & Autonomous Systems** — perception, control, and real-time sensor loops
 - **Cybersecurity** — secure architecture, threat modeling, and hardened deployments
+- **Quant/Finance** — signal research, backtesting, and low-latency decision systems
 - **Decentralized Infra** — blockchain, distributed systems, and IoT edge networks
 
 ---
