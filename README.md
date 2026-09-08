@@ -10,21 +10,26 @@
 
 ## Summary
 
-Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity. I build
-intelligent pipelines across finance, blockchain, IoT, and autonomous systems, with
-end-to-end ownership from raw data to secure, decentralized infrastructure.
-
-- **AI/ML** — model training, inference pipelines, and data-to-decision systems
-- **Robotics & Autonomous Systems** — perception, control, and real-time sensor loops
-- **Cybersecurity** — secure architecture, threat modeling, and hardened deployments
-- **Quant/Finance** — signal research, backtesting, and low-latency decision systems
-- **Decentralized Infra** — blockchain, distributed systems, and IoT edge networks
+<p align="center">
+  Computational Systems Engineer focused on AI/ML, robotics, and cybersecurity.<br/>
+  I build intelligent pipelines across finance, blockchain, IoT, and autonomous systems,<br/>
+  with end-to-end ownership from raw data to secure, decentralized infrastructure.
+</p>
 
 ---
 
 ## Technical Skills
 
-<!-- paste your technical skills block here -->
+```
+Languages            Python · Java · C++ · JavaScript · SQL
+AI / ML              AI/ML Systems · TensorFlow · Quantum ML · Alpaca API · Astropy
+Backend & Web        FastAPI · React · Next.js · REST APIs · Software Architecture
+Cybersecurity        Network Security · Threat Analysis · LLM Security · TLS/mTLS · Data Protection · YARA
+Blockchain / Web3    Solidity · Ethereum · Smart Contracts · Hardhat · ethers.js · Web3.py
+Robotics & Embedded  Control Systems · Embedded Systems · ESP32 · FPGA · MQTT · Isaac Sim
+Data & Infra         PostgreSQL · Docker · Kafka · Terraform · Grafana
+Tools & Platforms    Git · GitHub · Linux · Bash · Android Studio · VS Code · Jupyter
+```
 
 ---
 
