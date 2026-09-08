@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=specter842&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/409ba5/specter842" alt="Contribution Heatmap" width="80%"/>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Tools & Platforms    Git · GitHub · Linux · Bash · Android Studio · VS Code
 ## More Stats
 
 <p align="center">
-  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=specter842&layout=compact&theme=github_dark&hide_border=true&cache_seconds=600&langs_count=10" height="165"/>
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=specter842&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="165"/>
 </p>
 
 <p align="center">
