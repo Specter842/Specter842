@@ -11,10 +11,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/specter842" alt="Contribution Heatmap" width="80%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-stats-gilt-alpha.vercel.app/api?username=specter842&show_icons=true&theme=github_dark&count_private=true&hide_border=true&cache_seconds=10" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=specter842&theme=github-dark-blue&hide_border=true" height="165"/>
 </p>
